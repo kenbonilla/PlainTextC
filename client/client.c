@@ -7,9 +7,8 @@
  * 
  * TCP client for plaintext files. Will get single file, print contents,
  * save file to directory, then exit
- * Capable of dynamic file size!
  * default port is 8899
- * port to be entered as argument bonillaclient 8888
+ * port to be entered as argument client 8888
  *
  * Created on April 22, 2017, 5:00 PM
  */
